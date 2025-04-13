@@ -1,0 +1,68 @@
+body{
+    background-image: url(./thumb-1920-540821.jpg);
+}
+
+.tartalom{
+    background-color: rgba(0, 0, 0, 0.705);
+    color: gainsboro;
+    padding-bottom: 5rem;
+}
+
+.szoveg{
+    text-align: justify;
+    font-size: large;
+    font-size: larger;
+}
+
+.kozep{
+    text-align: center;
+    border-bottom: 1px solid gainsboro;
+}
+
+.imgkeret{
+    border: 1px solid gray;
+}
+
+a{
+    color: gainsboro;
+    text-decoration: none;
+}
+
+.spacekep2{
+    float: right;
+}
+
+.tartalom2{
+    background-color: rgba(0, 0, 0, 0.705);
+    color: gainsboro;
+    padding-bottom: 16rem;
+}
+
+.img2{
+    max-width: 80%;
+}
+
+.img3{
+    max-width: 80%;
+    float: right;
+}
+
+.img4{
+    max-width: 70%;
+    float: right;
+}
+
+h1{
+    padding-top: 1rem;
+}
+
+.btn1{
+    margin-top: 3rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.img5{
+    max-width: 50%;
+    float: right;
+}

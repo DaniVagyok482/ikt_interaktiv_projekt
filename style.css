@@ -1,0 +1,36 @@
+body{
+    background-image: url(./thumb-1920-540821.jpg);
+}
+
+.tartalom{
+    background-color: rgba(0, 0, 0, 0.705);
+    color: gainsboro;
+    padding-bottom: 10rem;
+}
+
+.kozep{
+    text-align: center;
+    border-bottom: 1px solid gainsboro;
+}
+
+.szoveg{
+    text-align: justify;
+    font-size: large;
+    font-size: larger;
+}
+
+.btn1{
+    margin-top: 3rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+a{
+    color: gainsboro;
+    text-decoration: none;
+}
+
+.btn-elotort{
+    padding: 1rem;
+    border: 1px solid gray;
+}

@@ -1,0 +1,26 @@
+body{
+    background-image: url(./spacekep.jpg);
+    background-size: cover;
+}
+
+.tartalom{
+    padding-bottom: 8%;
+    background-image: url(./notekep.png);
+    background-size: cover;
+    font-weight: bold;
+}
+
+.btnvissza{
+    padding: 0.6rem;
+    border: 1px solid gray;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.space{
+    padding-top: 0.6rem;
+}
+
